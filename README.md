@@ -5,5 +5,5 @@ Mobile Client for zDrive Storage Cloud
 
 You can see screenshot here:
 
-<img src="CAPTURE.png" />
+<img src="Capture.PNG" />
 
